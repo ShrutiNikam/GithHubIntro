@@ -4,3 +4,5 @@ apple
 bannana
 chiku
 cherry
+mangos
+oranges
