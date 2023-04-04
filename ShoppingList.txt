@@ -6,3 +6,5 @@ chiku
 cherry
 mangos
 oranges
+rose
+petals
